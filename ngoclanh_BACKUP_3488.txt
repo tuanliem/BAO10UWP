@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+lanh dep dep dep dep gai gai gai bla bla bla
+liem dep trai bli bli 
+hahahaha ! hihihihi! hoohohoh ! 
+=======
+lanh xau gai bla bla bla
+dsadeaesfdsg
+liem dep trai bli bli 
+>>>>>>> c6a95a5d3a98f73190ec578c8b95253737d3c367
